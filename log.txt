@@ -1,0 +1,21 @@
+16:24:08:941 Received a '#JOIN' action from '147.26.231.156'
+16:24:08:941 Responded to '147.26.231.156' with '$OK'
+16:24:14:706 Received a '#JOIN' action from '147.26.231.153'
+16:24:14:706 Responded to '147.26.231.153' with '$OK'
+16:24:19:144 Received a '#JOIN' action from '192.168.2.3'
+16:24:19:144 Responded to '192.168.2.3' with '$OK'
+16:24:24:091 Received a '#LIST' action from '147.26.231.156'
+16:24:24:092 List of agents is supplied to '147.26.231.156'
+16:24:29:379 Received a '#LEAVE' action from '147.26.231.156'
+16:24:29:379 Responded to '147.26.231.156' with '$OK'
+16:24:32:910 Received a '#LIST' action from '147.26.231.156'
+16:24:32:910 No response supplied to '147.26.231.156' (not active agent)
+16:24:54:308 Received a '#LEAVE' action from '147.26.231.153'
+16:24:54:310 Responded to '147.26.231.153' with '$OK'
+16:24:56:808 Received a '#LEAVE' action from '147.26.231.153'
+16:24:56:808 Responded to '147.26.231.153' with '$NOT MEMBER'
+16:25:13:447 Received a '#LIST' action from '192.168.2.3'
+16:25:13:447 List of agents is supplied to '192.168.2.3'
+16:25:16:223 Received a '#LOG' action from '192.168.2.3'
+
+
