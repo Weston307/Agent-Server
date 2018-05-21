@@ -1,3 +1,7 @@
+--This project was written in C. Its purpose was to show how clients and servers speak to each other. This was achieved by creating simple requests and responses.--
+
+INSTRUCTIONS TO RUN IN LINUX ENVIRONMENT
+
 Get into project2 directory 
 	cd project2
 
