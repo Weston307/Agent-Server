@@ -26,4 +26,4 @@ Example ./agent zezeus.cs.txstate.edu 30000 "#JOIN"
 --------------------------------------------------------------
 
 Note** port does not have to be 30000
-Note*** In order to delete the log.txt file after you turn off 	the server you must go in and delete everyting 		yourself and then save it. It will keep appending to 		the end.
+Note*** In order to delete the log.txt file after you turn off the server you must go in and delete everyting yourself and then save it. It will keep appending to the end.
